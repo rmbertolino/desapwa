@@ -11,47 +11,47 @@
     "lang": "es-AR",
     "icons": [
       {
-        "src": "./img/earth-152-3320",
+        "src": "/img/earth-152-3320",
         "sizes": "152x152",
         "type": "image/png"
       },
       {
-        "src": "./img/earth-144-3320",
+        "src": "/img/earth-144-3320",
         "sizes": "144x144",
         "type": "image/png"
       },
       {
-        "src": "./img/earth-114-3320",
+        "src": "/img/earth-114-3320",
         "sizes": "114x114",
         "type": "image/png"
       },
       {
-        "src": "./img/earth-72-3320",
+        "src": "/img/earth-72-3320",
         "sizes": "72x72",
         "type": "image/png"
       },
       {
-        "src": "./img/earth-64-3320",
+        "src": "/img/earth-64-3320",
         "sizes": "64x64",
         "type": "image/png"
       },
       {
-        "src": "./img/earth-57-3320",
+        "src": "/img/earth-57-3320",
         "sizes": "57x57",
         "type": "image/png"
       },
       {
-        "src": "./img/earth-48-3320.png",
+        "src": "/img/earth-48-3320.png",
         "sizes": "48x48",
         "type": "image/png"
       },
       {
-        "src": "./img/earth-24-3320.png",
+        "src": "/img/earth-24-3320.png",
         "sizes": "24x24",
         "type": "image/png"
       },
       {
-        "src": "./img/favicon.png",
+        "src": "/img/favicon.png",
         "sizes": "16x16",
         "type": "image/png"
       }
