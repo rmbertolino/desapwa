@@ -4,8 +4,7 @@ const CACHE_NAME = 'v1_cache_template_pwa',
   urlsToCache = [
     './',
     '/desapwa/script.js',
-    '/desapwa/img/earth-152-3320.png',
-    '/desapwa/img/favicon.ico'
+    '/desapwa/img/earth-152-3320.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
